@@ -48,7 +48,7 @@ header nav ul li a:hover::before{
 }
 
 .start{
-    background: url(./fond.jpg) center/cover;
+    background: url(./images-coffee/fond.jpg) center/cover;
     height: 700px;
     display: flex;
     align-items: center;
@@ -82,7 +82,7 @@ header nav ul li a:hover::before{
 .image{
     height: 400px;
     width: 1000px;
-    background: url(./about.jpg) center/cover;
+    background: url(./images-coffee/about.jpg) center/cover;
     border-radius: 2em;
 }
 .content_history{
